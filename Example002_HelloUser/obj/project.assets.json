@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\Example002_HelloUser.csproj",
+      "projectUniqueName": "c:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\Example002_HelloUser.csproj",
       "projectName": "Example002_HelloUser",
-      "projectPath": "C:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\Example002_HelloUser.csproj",
+      "projectPath": "c:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\Example002_HelloUser.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\obj\\",
+      "outputPath": "c:\\Users\\PC\\Desktop\\GB\\C\\001\\Example002_HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
